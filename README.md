@@ -96,4 +96,6 @@
    javac HospitalManagement.java<br>
    java HospitalManagement
 
+##screenshots
+
 
