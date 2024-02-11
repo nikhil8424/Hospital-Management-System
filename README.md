@@ -78,3 +78,22 @@
 
 8. **Sample Data Initialization:**
    - Include sample data for testing and demonstrating the capabilities of the system.
+     
+# Running the Java Program - Hospital Management System
+
+## Install Java Development Kit (JDK):
+
+1. Ensure you have Java Development Kit (JDK) installed on your system. Download it from the official Oracle website or use OpenJDK.
+
+## Compile the Java Code:
+
+1. Open a text editor (Notepad, Visual Studio Code, or any Java IDE).
+2. Paste the entire Java code into a new file.
+3. Save the file with a `.java` extension (e.g., `HospitalManagement.java`).
+4. Open a command prompt or terminal and navigate to the directory where the Java file is saved.
+5. Compile the Java code by running the following command:
+
+   javac HospitalManagement.java
+   java HospitalManagement
+
+
