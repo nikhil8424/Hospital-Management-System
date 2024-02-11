@@ -93,7 +93,7 @@
 4. Open a command prompt or terminal and navigate to the directory where the Java file is saved.
 5. Compile the Java code by running the following command:
 
-   javac HospitalManagement.java
+   javac HospitalManagement.java<br>
    java HospitalManagement
 
 
