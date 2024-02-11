@@ -97,5 +97,5 @@
    java HospitalManagement
 
 ## screenshots
-
+![doctors](https://github.com/nikhil8424/Hospital-Management-System/blob/main/screenshot.png)
 
